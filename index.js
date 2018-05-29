@@ -20,7 +20,7 @@ if (cluster.isMaster) {
 
   app.get('/fast', (req, res) => {
     res.send('fast');
-  }
+  });
 
   app.listen(3000);
 

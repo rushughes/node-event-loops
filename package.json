@@ -1,0 +1,22 @@
+{
+  "name": "event-loops",
+  "version": "1.0.0",
+  "description": "playing with node event loops from https://www.udemy.com/advanced-node-for-developers/learn/v4/t/lecture/9636100?start=0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rushughes/node-event-loops.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rushughes/node-event-loops/issues"
+  },
+  "homepage": "https://github.com/rushughes/node-event-loops#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
